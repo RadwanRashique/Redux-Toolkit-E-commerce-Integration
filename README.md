@@ -1,4 +1,9 @@
 # React Shopping Cart with Redux Toolkit 🛒
+### Workflow
+
+Here's a video demonstrating the workflow:
+
+[![Watch the video](https://img.youtube.com/vi/IJ4lCJmteMk/0.jpg)](https://youtu.be/IJ4lCJmteMk?si=M7n1VyDR3r0dUZau)
 
 A minimal React Shopping Cart project to play with Redux Toolkit.
 
