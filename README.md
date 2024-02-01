@@ -2,20 +2,7 @@
 
 
 A minimal React Shopping Cart project to play with Redux Toolkit.
-### SignUp
-[SignUp](https://photos.app.goo.gl/M9PSbYpLA3NtXJ656)
 
-### Login
-[Login](https://photos.app.goo.gl/uRBbpPhFksVoTkcJ6)
-
-### Dashboard
-[Dashboard](https://photos.app.goo.gl/DkCSfZzSgUFdZdTd7)
-
-### Add
-[Add](https://photos.app.goo.gl/1JSxH6AJ6QEbW3Dv9)
-
-### Edit
-[Edit](https://photos.app.goo.gl/1jXT7kG3ykdk3XRD7)
 
 ## Features
 
